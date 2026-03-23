@@ -86,19 +86,20 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kanupriya-pal/">
-    <img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" height="58" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/919770478602?text=Hi%20Kanu%2C%20I%20visited%20your%20GitHub%20profile">
-    <img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="58" alt="WhatsApp" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:kanupriyapal031996@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
 
+<a href="https://www.linkedin.com/in/YOUR-LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://wa.me/919770478602?text=Hi%20Kanu">
+  <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+<a href="mailto:kanupriyapal031996@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 ## 🧠 Competencies
