@@ -85,21 +85,24 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://wa.me/919770478602?text=Hi%20Kanu">
-  <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp"/>
-</a>
-
-<a href="mailto:kanupriyapal031996@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+<div id="connect">
+  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
+    <span>Connect with me on:</span>
+  </h2>
+  <a href="https://x.com/kanupriya_pal">
+    <img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto>
+  </a>
+  <a href="https://www.linkedin.com/in/kanupriya-pal/">
+    <img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" height="60" width= auto>
+  </a>
+  <a href="https://www.instagram.com/kanu_3962"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width="auto"></a>
+  <a href="https://api.whatsapp.com/send?phone=9770478602&text=Hi!%Kanu!!">
+    <img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width="auto">
+  </a>
+  <a href="https://discord.com/users/kanupriya_pal#8827/">
+    <img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width="auto">
+  </a>
+</div>
 ---
 
 ## 🧠 Competencies
