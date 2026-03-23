@@ -95,7 +95,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kanupriyapal031996@gmail.com">
-    <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" height="58" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
