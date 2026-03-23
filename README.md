@@ -82,9 +82,6 @@
 - Designed contextual UI interactions for better engagement
 
 ---
-
-## 🌐 Connect With Me
-
 <div id="connect">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
     <span>Connect with me on:</span>
