@@ -47,8 +47,21 @@
 ---
 
 ## 💼 Experience Highlights
+### **Senior Frontend Engineer (Contract) | MilliPixels Interactive LLP — Client: Reach plcApr 2026 – Sep 2026 • Remote**
+- Worked as a Senior Frontend Engineer on Reach plc’s digital subscription storefronts using Piano, delivering and
+maintaining customer-facing subscription experiences across multiple UK publication brands.
+- Developed and maintained global and publication-specific storefront templates using HTML, CSS, JavaScript,
+responsive design, and Piano template/configuration logic.
+- Delivered reusable UI enhancements across subscription landing pages, modals, CTA components, FAQs,
+app-download experiences, and plan-selection journeys, while preserving bespoke publication behaviour.
+- Implemented device- and configuration-driven storefront behaviour, including conditional App Store / Google
+Play content, responsive layouts, reusable variables, and publication-specific feature flags.
+- Managed frontend changes across Sandbox, Dev, QA, Pre-Prod, and Production environments, collaborating with
+product, QA, design, and engineering teams to validate releases and minimize regressions.
+- Contributed within a storefront and microfrontend ecosystem, handling production fixes, cross-publication rollouts,
+Git/PR workflows, and responsive UI quality across mobile, tablet, and desktop.
 
-### **Senior Frontend Engineer (SDE III) | ITR Consulting**
+### **Senior Frontend Engineer (SDE III) | Infosol Technosol**
 - Delivered frontend features across multiple production releases
 - Built **25+ reusable React.js + TypeScript components**
 - Reduced feature turnaround time by **25%**
